@@ -1,1 +1,1 @@
-zero_day repo
+command uname
